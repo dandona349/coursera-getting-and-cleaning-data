@@ -115,4 +115,4 @@ The set of variables that were estimated from these signals are:
 1 to 30
 
 ##Transformation##
-tidy_data.csv is the transformed dataset, of dimensions 180 x 68. The variables are averages of each feature for each activity and each subject.
+tidy_data.txt is the transformed dataset, of dimensions 180 x 68. The variables are averages of each feature for each activity and each subject.
