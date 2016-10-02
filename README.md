@@ -57,4 +57,4 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
  
 * **Code section 5: From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.**
  * A new dataset is created by grouping each activity for each subject
- * The resulting dataset is written in a csv format.
+ * The resulting dataset is written in a txt format.
